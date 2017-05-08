@@ -1,0 +1,2 @@
+select disk 3
+detail disk
